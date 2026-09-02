@@ -17,3 +17,7 @@ Seitsemän vaihetta: toimintatilan määritys, sääntöhierarkia, asiasisällö
 - [Kielitoimiston ohjepankki](https://kielitoimistonohjepankki.fi/)
 - [Kielitoimiston sanakirja](https://www.kielitoimistonsanakirja.fi/)
 - [Iso suomen kielioppi](https://kaino.kotus.fi/visk/etusivu.php)
+
+## Lisenssi
+
+MIT — ks. [LICENSE](LICENSE).
