@@ -1,6 +1,6 @@
 ---
 name: suomen-kieli
-description: "Suomen kielen toimittaja: käytä AINA kun tuotat, käännät, oikoluet, arvioit tai luonnollistat suomenkielistä tekstiä — verkkosivut, dokumentit, markkinointi, asiantuntijaviestintä — tai kun käyttäjä mainitsee oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat tai pyytää oikolukua tai tekstin tarkastusta suomeksi."
+description: "Suomen kielen toimittaja: käytä AINA kun tuotat, käännät, oikoluet, arvioit tai luonnollistat suomenkielistä tekstiä – verkkosivut, dokumentit, markkinointi, asiantuntijaviestintä – tai kun käyttäjä mainitsee oikeinkirjoituksen, kieliopin, pilkutuksen, yhdyssanat tai pyytää oikolukua tai tekstin tarkastusta suomeksi."
 ---
 
 # Suomen kielen toimittaja
@@ -46,9 +46,9 @@ Käsittele sekakielisestä tekstistä vain pyydetyt osat. Säilytä koodi, komen
 
 **Valmis, kun** jokainen sisältömuutos on joko käyttäjän pyytämä tai merkityksen säilyttävä.
 
-## 4. Huolla kieli (norminormisto esimerkkeineen)
+## 4. Huolla kieli (normisto esimerkkeineen)
 
-Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillisin — tarkista ne aina ensin.
+Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillisin – tarkista ne aina ensin.
 
 ### Yhdyssanat ja sanaliitot
 - Merkityskokonaisuus ratkaisee, ei sanaluokkakaava: kirjoita yhteen, kun osat muodostavat kiinteän merkityskokonaisuuden. Nominatiivialkuiset vakiintuneet kokonaisuudet ovat yhdyssanoja: verkkosivusto, asiakaspalvelu, tietoturva, aamupala (EI: verkko sivusto, asiakas palvelu).
@@ -63,7 +63,7 @@ Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillis
 - Sovita subjekti ja predikaatti: lapset leikkivät, mutta osa lapsista leikkii.
 - Tarkista verbien, adjektiivien ja postpositioiden vaatimat sijamuodot: puuttua ongelmaan, asian suhteen (EI: asiaan suhteen).
 - Käytä kirjakielessä omistusliitteitä (taloni, talosi), mutta säilytä puhekielinen rekisteri, jos se on tietoinen valinta.
-- Tarkista nimien ja lyhenteiden taivutus: EU:n, YK:ssa, kg:n, km:llä — isokirjaimisiin lyhenteisiin pääte kaksoispisteellä, tunnuksiin suoraan.
+- Tarkista nimien ja lyhenteiden taivutus: EU:n, YK:ssa, kg:n, km:llä – isokirjaimisiin lyhenteisiin pääte kaksoispisteellä, tunnuksiin suoraan.
 - Pisteelliset loppulyhenteet: esim., mm., jne., ns., ks., vrt. Pisteettömät: sisälyhenteet (nro, tri), kirjainlyhenteet (EU, YK), mittayksiköt (kg, km, h, min).
 
 ### Pilkut ja virkkeet
