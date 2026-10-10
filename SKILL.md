@@ -50,6 +50,18 @@ Käsittele sekakielisestä tekstistä vain pyydetyt osat. Säilytä koodi, komen
 
 Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillisin – tarkista ne aina ensin.
 
+Tämä osa riittää useimpiin tehtäviin. Kun tekstissä on alla mainittuja piirteitä, avaa myös sitä koskeva `references/`-tiedosto ennen työn aloittamista:
+
+| Tiedosto | Avaa, jos tekstissä on |
+|---|---|
+| `references/luetelmat.md` | ranskalaisia viivoja, pallukoita tai numeroituja luetelmia |
+| `references/lauseet.md` | käännöstä englannista, raskaita virkkeitä tai luonnollistettavaa tekoälytekstiä |
+| `references/taivutus.md` | vieraskielisiä nimiä, lyhenteitä, epävarmoja rektioita tai muoto, jota olet korjaamassa |
+| `references/merkit.md` | puoli- tai kaksoispisteitä, sulkeita, sisäkkäisiä lainauksia, päivämääriä, rahamääriä, puhelinnumeroita, tunnisteita tai aakkostusta |
+| `references/sanasto.md` | lainasanoja, käännöslainoja, fraaseja tai epäselvä rekisteri |
+
+Jos `references/`-kansiota ei ole saatavilla, jatka tämän tiedoston säännöillä.
+
 ### Yhdyssanat ja sanaliitot
 - Merkityskokonaisuus ratkaisee, ei sanaluokkakaava: kirjoita yhteen, kun osat muodostavat kiinteän merkityskokonaisuuden. Nominatiivialkuiset vakiintuneet kokonaisuudet ovat yhdyssanoja: verkkosivusto, asiakaspalvelu, tietoturva, aamupala (EI: verkko sivusto, asiakas palvelu).
 - Muita vakiintuneita yhteen kirjoitettavia: verkkokauppa, asiakaskokemus, tietojärjestelmä, terveydenhuolto, sosiaaliturva, ympäristövaikutus, työelämä, työpaikka.
@@ -63,8 +75,9 @@ Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillis
 - Sovita subjekti ja predikaatti: lapset leikkivät, mutta osa lapsista leikkii.
 - Tarkista verbien, adjektiivien ja postpositioiden vaatimat sijamuodot: puuttua ongelmaan, asian suhteen (EI: asiaan suhteen).
 - Käytä kirjakielessä omistusliitteitä (taloni, talosi), mutta säilytä puhekielinen rekisteri, jos se on tietoinen valinta.
-- Tarkista nimien ja lyhenteiden taivutus: EU:n, YK:ssa, kg:n, km:llä – isokirjaimisiin lyhenteisiin pääte kaksoispisteellä, tunnuksiin suoraan.
-- Pisteelliset loppulyhenteet: esim., mm., jne., ns., ks., vrt. Pisteettömät: sisälyhenteet (nro, tri), kirjainlyhenteet (EU, YK), mittayksiköt (kg, km, h, min).
+- Taivuta lyhenne sen mukaan, miten se luetaan, ei kirjainkoon mukaan. Kirjaimittain luettavaan lyhenteeseen ja mittayksikön tunnukseen pääte tulee kaksoispisteellä: EU:n, YK:ssa, tv:n, kg:n, km:llä. Sanana luettava lyhennesana taipuu kuin tavallinen sana ja kirjoitetaan nimenä: Kelan, Natoon, Ylellä (EI: KELA:n, NATO:on).
+- Pisteelliset loppulyhenteet: esim., mm., jne., ns., ks., vrt. Niitä ei yleensä taivuteta; kirjoita sana tarvittaessa auki. Pisteettömät: sisälyhenteet (nro, tri), kirjainlyhenteet (EU, YK), mittayksiköt (kg, km, h, min).
+- Vieraskielinen nimi taipuu kirjoitusasun ja ääntämisen mukaan: Adoben (vokaaliloppuinen), Microsoftin (konsonantti kirjoitetaan ja äännetään), Renault’n (konsonantti kirjoitetaan, vokaali äännetään).
 
 ### Pilkut ja virkkeet
 - Päälauseen ja sivulauseen väliin tulee pilkku: että, jos, kun, koska, vaikka, jotta, joka, mikä. "Ministeri totesi, että asia on käsitelty."
@@ -74,10 +87,16 @@ Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillis
 - Kuten-rinnastus pilkulla: "Monet marjat, kuten mustikat ja puolukat, kypsyvät elokuussa."
 - Tavallisessa suomalaisessa luettelossa ei yleensä käytetä englannin Oxford-pilkkua; käytä pilkkua ennen viimeistä ja-sanaa vain, jos rakenne muuten jää epäselväksi.
 - Älä lisää pilkkua mekaanisesti jokaisen konjunktion eteen.
+- Kaksoispisteen jälkeen pieni alkukirjain, kun seuraa sana, lauseke tai yksi virke; iso, kun seuraa useampi virke tai suora lainaus.
+
+### Luetelmat
+- Kaikki kohdat ovat samaa muotoa: älä sekoita sanoja, katkelmia ja kokonaisia virkkeitä.
+- Johdantoa jatkavat katkelmat alkavat pienellä, eikä niiden väliin tule pilkkua tai puolipistettä. Itsenäiset virkkeet alkavat isolla ja päättyvät pisteeseen.
+- Viimeisen kohdan eteen ei tule ja-, tai- tai vai-sanaa.
 
 ### Alkukirjaimet
 - Pienellä: kielet ja kansallisuudet (suomi, suomalainen), viikonpäivät, kuukaudet, vuodenajat, uskontokunnat, yleiset tittelit (presidentti, tohtori), lakien nimet (perustuslaki), laji- ja eläinnimet.
-- Juhla- ja merkkipäivien yleisnimet pienellä: joulu, juhannus, pääsiäinen, vappu, äitienpäivä. Esimerkiksi: Hyvää joulua.
+- Juhla- ja merkkipäivien yleisnimet pienellä: joulu, juhannus, pääsiäinen, vappu, äitienpäivä. Esimerkiksi: Hyvää joulua. Erisnimellä alkavat päivät erikseen ja erisnimi isolla: Kalevalan päivä, Suomen lipun päivä; poikkeus Eurooppa-päivä.
 - Isolla: virkkeen alku, erisnimet (Suomi, Euroopan unioni, Kotimaisten kielten keskus), taideteosten nimen ensimmäinen sana (Seitsemän veljestä).
 - Säilytä organisaatioiden, tuotteiden ja tapahtumien viralliset kirjoitusasut, vaikka ne poikkeaisivat normista.
 
@@ -85,14 +104,16 @@ Yhdyssanavirheet ovat suomen yleisin kirjoitusvirhe ja tekoälytekstin tyypillis
 - Desimaalipilkku juoksevassa tekstissä: 3,14. Tuhaterotin on välilyönti: 10 000 (nelinumeroinen käy ilman: 1000).
 - Väli luvun ja yksikön, prosentin tai valuuttamerkin väliin: 5 kg, 15 %, 100 €.
 - Pienet luvut (1–10) mielellään kirjaimin juoksevassa tekstissä; tarkat ja tekniset luvut numeroin.
-- Päivämäärät: 11.3.2026 tai 11. maaliskuuta 2026 (EI: 11. 3. 2026). Järjestysluvun tunnus on piste: 1., 2.
+- Päivämäärät: 11.3.2026 tai 11. maaliskuuta 2026 (EI: 11. 3. 2026). Ilman vuotta päivämäärä päättyy pisteeseen: 11.3. Järjestysluvun tunnus on piste: 1., 2.
 - Suomenkielisessä asiatekstissä kellonaika yleensä pisteellä: klo 9.15. Muoto 9:15 sopii digitaalisiin käyttöliittymiin, tekniseen dataan ja standardinmukaiseen esitykseen.
 - Säilytä pisteellinen desimaali koodissa, lähdedatassa, tunnisteissa ja teknisissä formaateissa.
 
 ### Lainausmerkit ja viivat
 - Huolitellun suomen ensisijaiset kokolainausmerkit ovat ”lainaus”. ASCII-merkit "lainaus" sopivat tekniseen tekstiin, chattiin ja rajattuihin ympäristöihin. Älä pidä kaarevia lainausmerkkejä tekoälyn tunnusmerkkinä.
 - Lainausmerkkien normin mukaiset käyttötavat: suorat lainaukset ja repliikit, sanan erikoismerkityksen tai varauksellisen käytön osoittaminen sekä esimerkiksi teosten ja kirjoitusten nimet tekstiyhteydessä. Mekaaninen korostus- ja tehostekäyttö on sen sijaan tyylivaroitussignaali: VÄÄRIN: Tämä on "tärkeää" → PAREMMIN: Tämä on tärkeää. Tietoinen ironia tai varaus (hän oli "asiantuntija") on sallittua, kun se on kirjoittajan valinta eikä toistu maneerina.
-- Tarkista johtolauseen ja sitaatin välimerkit. Ei kulmikkaita »lainausmerkkejä» (ruotsin malli).
+- Kirjoissa ja lehdissä käytetään myös kulmalainausmerkkejä »lainaus», nekin samanmuotoisina molemmissa päissä. Englannin “lainaus” ja saksan „lainaus“ eivät ole suomen käytäntöä.
+- Lainauksen sisäinen lainaus merkitään puolilainausmerkein: ”Hän sanoi ’ei käy’ ja lähti.” Sama merkki ’ on heittomerkki (Renault’n), ei suora '.
+- Tarkista johtolauseen ja sitaatin välimerkit: ”Allekirjoitamme maanantaina”, toimitusjohtaja sanoi.
 - Yhdysmerkki on `-` (EU-maa, tavutus). Suomalainen ajatusviiva ja vaihteluvälin viiva on `–` (sivut 10–15, klo 8–16, vuosina 2020–2025). Englannin em dash `—` ei ole tavallinen suomalainen ajatusviiva.
 - Ajatusviiva ei yksin osoita tekoälytekstiä, mutta sen kasautuminen samaan kappaleeseen on varoitussignaali; käyttäjän tyylitoive voi rajoittaa käyttöä.
 
@@ -113,6 +134,8 @@ Kohtele seuraavia rakenteita varoitussignaaleina, älä kieltoina:
 - kaavamaiset `ei X vaan Y` -vastakkainasettelut
 - ylipitkät virkkeet ja joka-lauseiden ketjut
 - turhat liitekysymykset ("eikö niin?") englannin mallin mukaan
+- englannin mallin mukaiset pronominit: turha muodollinen se-subjekti, toistuva sinä tai te, hänen-pronomini silloin, kun omistaja on lauseen subjekti, ja yksi epämääräisenä artikkelina
+- kelluva essiivi ja joka-sana koko lauseeseen viittaamassa (ks. `references/lauseet.md`)
 - tarpeeton kohteliaisuus tai mielistely, perusteettomat auktoriteettiviittaukset
 - lihavointien, emojien, lainausten ja listojen mekaaninen käyttö.
 
@@ -143,9 +166,9 @@ Noudata käyttäjän pyytämää formaattia. Jos käyttäjä pyytää vain valmi
 Tee lopuksi kaksi lukua:
 
 1. **Merkitysluku:** tarkista nimet, numerot, negaatiot, varmuusaste, lähteet ja ettei uusia väitteitä syntynyt.
-2. **Kieliluku:** tarkista tässä järjestyksessä yhdyssanat, pilkut, taivutus ja kongruenssi, alkukirjaimet, numeromuodot ja yksiköt, lainausmerkit ja viivat sekä rekisteri.
+2. **Kieliluku:** tarkista tässä järjestyksessä luetelmat, yhdyssanat, pilkut, taivutus ja kongruenssi, alkukirjaimet, numeromuodot ja yksiköt, lainausmerkit ja viivat sekä rekisteri.
 
-Jos teksti oli jo kunnossa, säilytä se. Älä muuta vain osoittaaksesi tehneesi työtä.
+Jos teksti oli jo kunnossa, säilytä se. Älä muuta vain osoittaaksesi tehneesi työtä. Älä korjaa rinnakkain hyväksyttyjä muotoja (alkaa tehdä ~ alkaa tekemään, asiakkaiden ~ asiakkaitten); yhtenäistä ne vain saman tekstin sisällä.
 
 **Valmis, kun** teksti läpäisee sekä merkitys- että kieliluvun.
 
@@ -158,3 +181,8 @@ Jos teksti oli jo kunnossa, säilytä se. Älä muuta vain osoittaaksesi tehnees
 - Juhlapäivien alkukirjaimet: https://kielitoimistonohjepankki.fi/ohje/alkukirjain-juhla-ja-merkkipaivien-nimet/
 - Lainausmerkit: https://kielitoimistonohjepankki.fi/ohje/lainausmerkit/
 - Kellonajat: https://kielitoimistonohjepankki.fi/ohje/ajanilmaukset-kellonajat-merkinta-ja-taivutus/
+- Luetelma: https://kielitoimistonohjepankki.fi/ohje/luetelma/
+- Kaksoispiste: https://kielitoimistonohjepankki.fi/ohje/kaksoispiste/
+- Vieraskielisten nimien taivutus: https://kielitoimistonohjepankki.fi/ohje/nimien-taivutus-vieraskieliset-nimet/
+- Poisto lainauksesta: https://kielitoimistonohjepankki.fi/ohje/ajatusviiva-poiston-merkkina/
+- Puhelinnumerot: https://kielitoimistonohjepankki.fi/ohje/puhelinnumerot/
